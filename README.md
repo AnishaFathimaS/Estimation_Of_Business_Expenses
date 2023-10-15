@@ -12,3 +12,7 @@ Story 1 Public Link https://public.tableau.com/views/Story1_16971050670900/Story
 Story 2 Public Link https://public.tableau.com/views/Story2_16971052201170/Story2?:language=en-US&:display_count=n&:origin=viz_share_link 
 
 Video Demonstration Link https://drive.google.com/file/d/14r-yFHRUKEs4H7bjEthnb2Sqhe0YzsRU/view?usp=drivesdk
+
+Empathy Map Link https://drive.google.com/file/d/1Gyl8W0hK8x3janRjT8Wqv9_4eXB0cLGD/view?usp=drivesdk
+
+Brainstorming Map Link https://drive.google.com/file/d/1GwkGKHdXlB7r8gcBBQsa6qaCfBSe62gR/view?usp=drivesdk
